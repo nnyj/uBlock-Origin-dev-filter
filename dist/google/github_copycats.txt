@@ -7,162 +7,162 @@
 ! GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
 ! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
 ||bleepcoder.com^$all
-google.*###rso .MjjYud a[href*="bleepcoder.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="bleepcoder.com"]:upward(.TzHB6b)
 ||githubja.com^$all
-google.*###rso .MjjYud a[href*="githubja.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="githubja.com"]:upward(.TzHB6b)
 ||giters.com^$all
-google.*###rso .MjjYud a[href*="giters.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="giters.com"]:upward(.TzHB6b)
 ||githubmemory.com^$all
-google.*###rso .MjjYud a[href*="githubmemory.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="githubmemory.com"]:upward(.TzHB6b)
 ||wenyanet.com^$all
-google.*###rso .MjjYud a[href*="wenyanet.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="wenyanet.com"]:upward(.TzHB6b)
 ||issueexplorer.com^$all
-google.*###rso .MjjYud a[href*="issueexplorer.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="issueexplorer.com"]:upward(.TzHB6b)
 ||opensourcelibs.com^$all
-google.*###rso .MjjYud a[href*="opensourcelibs.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="opensourcelibs.com"]:upward(.TzHB6b)
 ||awesomeopensource.com^$all
-google.*###rso .MjjYud a[href*="awesomeopensource.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="awesomeopensource.com"]:upward(.TzHB6b)
 ||findbestopensource.com^$all
-google.*###rso .MjjYud a[href*="findbestopensource.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="findbestopensource.com"]:upward(.TzHB6b)
 ||githubhelp.com^$all
-google.*###rso .MjjYud a[href*="githubhelp.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="githubhelp.com"]:upward(.TzHB6b)
 ||pythonissues.com^$all
-google.*###rso .MjjYud a[href*="pythonissues.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="pythonissues.com"]:upward(.TzHB6b)
 ||golangrepo.com^$all
-google.*###rso .MjjYud a[href*="golangrepo.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="golangrepo.com"]:upward(.TzHB6b)
 ||gitmemory.cn^$all
-google.*###rso .MjjYud a[href*="gitmemory.cn"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="gitmemory.cn"]:upward(.TzHB6b)
 ||githubmate.com^$all
-google.*###rso .MjjYud a[href*="githubmate.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="githubmate.com"]:upward(.TzHB6b)
 ||reposhub.com^$all
-google.*###rso .MjjYud a[href*="reposhub.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="reposhub.com"]:upward(.TzHB6b)
 ||gitanswer.com^$all
-google.*###rso .MjjYud a[href*="gitanswer.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="gitanswer.com"]:upward(.TzHB6b)
 ||githubplus.com^$all
-google.*###rso .MjjYud a[href*="githubplus.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="githubplus.com"]:upward(.TzHB6b)
 ||pythonrepo.com^$all
-google.*###rso .MjjYud a[href*="pythonrepo.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="pythonrepo.com"]:upward(.TzHB6b)
 ||bestofcpp.com^$all
-google.*###rso .MjjYud a[href*="bestofcpp.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="bestofcpp.com"]:upward(.TzHB6b)
 ||github.innominds.com^$all
-google.*###rso .MjjYud a[href*="github.innominds.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="github.innominds.com"]:upward(.TzHB6b)
 ||higithub.com^$all
-google.*###rso .MjjYud a[href*="higithub.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="higithub.com"]:upward(.TzHB6b)
 ||golangissues.com^$all
-google.*###rso .MjjYud a[href*="golangissues.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="golangissues.com"]:upward(.TzHB6b)
 ||gitfreak.com^$all
-google.*###rso .MjjYud a[href*="gitfreak.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="gitfreak.com"]:upward(.TzHB6b)
 ||pythonawesome.com^$all
-google.*###rso .MjjYud a[href*="pythonawesome.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="pythonawesome.com"]:upward(.TzHB6b)
 ||gitmotion.com^$all
-google.*###rso .MjjYud a[href*="gitmotion.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="gitmotion.com"]:upward(.TzHB6b)
 ||fantashit.com^$all
-google.*###rso .MjjYud a[href*="fantashit.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="fantashit.com"]:upward(.TzHB6b)
 ||gitcode.net^$all
-google.*###rso .MjjYud a[href*="gitcode.net"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="gitcode.net"]:upward(.TzHB6b)
 ||news24lite.com^$all
-google.*###rso .MjjYud a[href*="news24lite.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="news24lite.com"]:upward(.TzHB6b)
 ||github.phala.one^$all
-google.*###rso .MjjYud a[href*="github.phala.one"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="github.phala.one"]:upward(.TzHB6b)
 ||google-yandex.info^$all
-google.*###rso .MjjYud a[href*="google-yandex.info"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="google-yandex.info"]:upward(.TzHB6b)
 ||coder.social^$all
-google.*###rso .MjjYud a[href*="coder.social"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="coder.social"]:upward(.TzHB6b)
 ||javarepos.com^$all
-google.*###rso .MjjYud a[href*="javarepos.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="javarepos.com"]:upward(.TzHB6b)
 ||fastgit.org^$all
-google.*###rso .MjjYud a[href*="fastgit.org"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="fastgit.org"]:upward(.TzHB6b)
 ||gitmetadata.com^$all
-google.*###rso .MjjYud a[href*="gitmetadata.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="gitmetadata.com"]:upward(.TzHB6b)
 ||iboxshare.com^$all
-google.*###rso .MjjYud a[href*="iboxshare.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="iboxshare.com"]:upward(.TzHB6b)
 ||fuscin.com^$all
-google.*###rso .MjjYud a[href*="fuscin.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="fuscin.com"]:upward(.TzHB6b)
 ||bestofvue.com^$all
-google.*###rso .MjjYud a[href*="bestofvue.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="bestofvue.com"]:upward(.TzHB6b)
 ||swiftobc.com^$all
-google.*###rso .MjjYud a[href*="swiftobc.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="swiftobc.com"]:upward(.TzHB6b)
 ||flutterrepos.com^$all
-google.*###rso .MjjYud a[href*="flutterrepos.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="flutterrepos.com"]:upward(.TzHB6b)
 ||androidrepo.com^$all
-google.*###rso .MjjYud a[href*="androidrepo.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="androidrepo.com"]:upward(.TzHB6b)
 ||bestofflutter.com^$all
-google.*###rso .MjjYud a[href*="bestofflutter.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="bestofflutter.com"]:upward(.TzHB6b)
 ||jsrepos.com^$all
-google.*###rso .MjjYud a[href*="jsrepos.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="jsrepos.com"]:upward(.TzHB6b)
 ||macosrepo.com^$all
-google.*###rso .MjjYud a[href*="macosrepo.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="macosrepo.com"]:upward(.TzHB6b)
 ||zzun.app^$all
-google.*###rso .MjjYud a[href*="zzun.app"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="zzun.app"]:upward(.TzHB6b)
 ||rustrepo.com^$all
-google.*###rso .MjjYud a[href*="rustrepo.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="rustrepo.com"]:upward(.TzHB6b)
 ||bestofreactjs.com^$all
-google.*###rso .MjjYud a[href*="bestofreactjs.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="bestofreactjs.com"]:upward(.TzHB6b)
 ||bestofphp.com^$all
-google.*###rso .MjjYud a[href*="bestofphp.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="bestofphp.com"]:upward(.TzHB6b)
 ||softbranchdevelopers.com^$all
-google.*###rso .MjjYud a[href*="softbranchdevelopers.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="softbranchdevelopers.com"]:upward(.TzHB6b)
 ||issueantenna.com^$all
-google.*###rso .MjjYud a[href*="issueantenna.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="issueantenna.com"]:upward(.TzHB6b)
 ||pythonlang.dev^$all
-google.*###rso .MjjYud a[href*="pythonlang.dev"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="pythonlang.dev"]:upward(.TzHB6b)
 ||githublab.com^$all
-google.*###rso .MjjYud a[href*="githublab.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="githublab.com"]:upward(.TzHB6b)
 ||libhunt.com^$all
-google.*###rso .MjjYud a[href*="libhunt.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="libhunt.com"]:upward(.TzHB6b)
 ||andywarholpopartillustration.blogspot.com^$all
-google.*###rso .MjjYud a[href*="andywarholpopartillustration.blogspot.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="andywarholpopartillustration.blogspot.com"]:upward(.TzHB6b)
 ||bytemeta.vip^$all
-google.*###rso .MjjYud a[href*="bytemeta.vip"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="bytemeta.vip"]:upward(.TzHB6b)
 ||editcode.net^$all
-google.*###rso .MjjYud a[href*="editcode.net"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="editcode.net"]:upward(.TzHB6b)
 ||golangexample.com^$all
-google.*###rso .MjjYud a[href*="golangexample.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="golangexample.com"]:upward(.TzHB6b)
 ||github.astrophel.org^$all
-google.*###rso .MjjYud a[href*="github.astrophel.org"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="github.astrophel.org"]:upward(.TzHB6b)
 ||gitdetail.com^$all
-google.*###rso .MjjYud a[href*="gitdetail.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="gitdetail.com"]:upward(.TzHB6b)
 ||codespots.com^$all
-google.*###rso .MjjYud a[href*="codespots.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="codespots.com"]:upward(.TzHB6b)
 ||issuemode.com^$all
-google.*###rso .MjjYud a[href*="issuemode.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="issuemode.com"]:upward(.TzHB6b)
 ||issuehint.com^$all
-google.*###rso .MjjYud a[href*="issuehint.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="issuehint.com"]:upward(.TzHB6b)
 ||rpkg.in^$all
-google.*###rso .MjjYud a[href*="rpkg.in"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="rpkg.in"]:upward(.TzHB6b)
 ||geeksrepos.com^$all
-google.*###rso .MjjYud a[href*="geeksrepos.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="geeksrepos.com"]:upward(.TzHB6b)
 ||lightrun.com/answers$all
-google.*###rso .MjjYud a[href*="lightrun.com/answers"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="lightrun.com/answers"]:upward(.TzHB6b)
 ||pullanswer.com^$all
-google.*###rso .MjjYud a[href*="pullanswer.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="pullanswer.com"]:upward(.TzHB6b)
 ||devpick.io^$all
-google.*###rso .MjjYud a[href*="devpick.io"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="devpick.io"]:upward(.TzHB6b)
 ||opensourceagenda.com^$all
-google.*###rso .MjjYud a[href*="opensourceagenda.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="opensourceagenda.com"]:upward(.TzHB6b)
 ||gitmemories.com^$all
-google.*###rso .MjjYud a[href*="gitmemories.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="gitmemories.com"]:upward(.TzHB6b)
 ||wikimili.com^$all
-google.*###rso .MjjYud a[href*="wikimili.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="wikimili.com"]:upward(.TzHB6b)
 ||newworldencyclopedia.org^$all
-google.*###rso .MjjYud a[href*="newworldencyclopedia.org"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="newworldencyclopedia.org"]:upward(.TzHB6b)
 ||bestproduct-review.com^$all
-google.*###rso .MjjYud a[href*="bestproduct-review.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="bestproduct-review.com"]:upward(.TzHB6b)
 ||citizendium.org^$all
-google.*###rso .MjjYud a[href*="citizendium.org"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="citizendium.org"]:upward(.TzHB6b)
 ||codesti.com^$all
-google.*###rso .MjjYud a[href*="codesti.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="codesti.com"]:upward(.TzHB6b)
 ||pythontechworld.com^$all
-google.*###rso .MjjYud a[href*="pythontechworld.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="pythontechworld.com"]:upward(.TzHB6b)
 ||web.bluecomtech.com^$all
-google.*###rso .MjjYud a[href*="web.bluecomtech.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="web.bluecomtech.com"]:upward(.TzHB6b)
 ||rat.dev^$all
-google.*###rso .MjjYud a[href*="rat.dev"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="rat.dev"]:upward(.TzHB6b)
 ||codemonkey.link^$all
-google.*###rso .MjjYud a[href*="codemonkey.link"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="codemonkey.link"]:upward(.TzHB6b)
 ||giterhub.com^$all
-google.*###rso .MjjYud a[href*="giterhub.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="giterhub.com"]:upward(.TzHB6b)
 ||githubissues.com^$all
-google.*###rso .MjjYud a[href*="githubissues.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="githubissues.com"]:upward(.TzHB6b)
 ||githubrecord.com^$all
-google.*###rso .MjjYud a[href*="githubrecord.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="githubrecord.com"]:upward(.TzHB6b)

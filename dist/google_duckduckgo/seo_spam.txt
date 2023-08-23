@@ -7,119 +7,119 @@
 ! GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
 ! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
 ||spiegato.com^$all
-google.*###rso .MjjYud a[href*="spiegato.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="spiegato.com"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="spiegato.com"])
 ||actingcollegeses.com^$all
-google.*###rso .MjjYud a[href*="actingcollegeses.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="actingcollegeses.com"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="actingcollegeses.com"])
 ||patrickkidd3.typepad.com^$all
-google.*###rso .MjjYud a[href*="patrickkidd3.typepad.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="patrickkidd3.typepad.com"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="patrickkidd3.typepad.com"])
 ||durrell2012.com^$all
-google.*###rso .MjjYud a[href*="durrell2012.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="durrell2012.com"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="durrell2012.com"])
 ||developpaper.com^$all
-google.*###rso .MjjYud a[href*="developpaper.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="developpaper.com"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="developpaper.com"])
 ||topcode.in^$all
-google.*###rso .MjjYud a[href*="topcode.in"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="topcode.in"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="topcode.in"])
 ||javascripttutorial.net^$all
-google.*###rso .MjjYud a[href*="javascripttutorial.net"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="javascripttutorial.net"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="javascripttutorial.net"])
 ||geekwall.in^$all
-google.*###rso .MjjYud a[href*="geekwall.in"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="geekwall.in"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="geekwall.in"])
 ||mailinglistapi.info^$all
-google.*###rso .MjjYud a[href*="mailinglistapi.info"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="mailinglistapi.info"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="mailinglistapi.info"])
 ||worldgrowthtoday.com^$all
-google.*###rso .MjjYud a[href*="worldgrowthtoday.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="worldgrowthtoday.com"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="worldgrowthtoday.com"])
 ||emailconverts.info^$all
-google.*###rso .MjjYud a[href*="emailconverts.info"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="emailconverts.info"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="emailconverts.info"])
 ||email-pro.info^$all
-google.*###rso .MjjYud a[href*="email-pro.info"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="email-pro.info"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="email-pro.info"])
 ||icode9.com^$all
-google.*###rso .MjjYud a[href*="icode9.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="icode9.com"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="icode9.com"])
 ||900913.ru^$all
-google.*###rso .MjjYud a[href*="900913.ru"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="900913.ru"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="900913.ru"])
 ||iditect.com^$all
-google.*###rso .MjjYud a[href*="iditect.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="iditect.com"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="iditect.com"])
 ||jqueryscript.net^$all
-google.*###rso .MjjYud a[href*="jqueryscript.net"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="jqueryscript.net"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="jqueryscript.net"])
 ||osqa.net^$all
-google.*###rso .MjjYud a[href*="osqa.net"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="osqa.net"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="osqa.net"])
 ||codingwithfun.com^$all
-google.*###rso .MjjYud a[href*="codingwithfun.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="codingwithfun.com"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="codingwithfun.com"])
 ||codesprogram.com^$all
-google.*###rso .MjjYud a[href*="codesprogram.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="codesprogram.com"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="codesprogram.com"])
 ||iqcode.com^$all
-google.*###rso .MjjYud a[href*="iqcode.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="iqcode.com"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="iqcode.com"])
 ||hum-berlin.de^$all
-google.*###rso .MjjYud a[href*="hum-berlin.de"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="hum-berlin.de"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="hum-berlin.de"])
 ||britguidenewyork.net^$all
-google.*###rso .MjjYud a[href*="britguidenewyork.net"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="britguidenewyork.net"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="britguidenewyork.net"])
 ||justshowcode.com^$all
-google.*###rso .MjjYud a[href*="justshowcode.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="justshowcode.com"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="justshowcode.com"])
 ||itw01.com^$all
-google.*###rso .MjjYud a[href*="itw01.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="itw01.com"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="itw01.com"])
 ||codertw.com^$all
-google.*###rso .MjjYud a[href*="codertw.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="codertw.com"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="codertw.com"])
 ||multi-let.co.uk^$all
-google.*###rso .MjjYud a[href*="multi-let.co.uk"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="multi-let.co.uk"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="multi-let.co.uk"])
 ||answerforyou.net^$all
-google.*###rso .MjjYud a[href*="answerforyou.net"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="answerforyou.net"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="answerforyou.net"])
 ||globalizethis.org^$all
-google.*###rso .MjjYud a[href*="globalizethis.org"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="globalizethis.org"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="globalizethis.org"])
 ||unbate.com^$all
-google.*###rso .MjjYud a[href*="unbate.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="unbate.com"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="unbate.com"])
 ||ngontinh24.com^$all
-google.*###rso .MjjYud a[href*="ngontinh24.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="ngontinh24.com"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="ngontinh24.com"])
 ||nmstep.org^$all
-google.*###rso .MjjYud a[href*="nmstep.org"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="nmstep.org"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="nmstep.org"])
 ||juicycleanses.com^$all
-google.*###rso .MjjYud a[href*="juicycleanses.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="juicycleanses.com"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="juicycleanses.com"])
 ||code-discuss.com^$all
-google.*###rso .MjjYud a[href*="code-discuss.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="code-discuss.com"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="code-discuss.com"])
 ||bong-faq.com^$all
-google.*###rso .MjjYud a[href*="bong-faq.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="bong-faq.com"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="bong-faq.com"])
 ||suptitles.de^$all
-google.*###rso .MjjYud a[href*="suptitles.de"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="suptitles.de"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="suptitles.de"])
 ||brianlovin.com/hn$all
-google.*###rso .MjjYud a[href*="brianlovin.com/hn"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="brianlovin.com/hn"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="brianlovin.com/hn"])
 ||plageroyale.com^$all
-google.*###rso .MjjYud a[href*="plageroyale.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="plageroyale.com"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="plageroyale.com"])
 ||thesassway.com^$all
-google.*###rso .MjjYud a[href*="thesassway.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="thesassway.com"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="thesassway.com"])
 ||azazworld.com^$all
-google.*###rso .MjjYud a[href*="azazworld.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="azazworld.com"]:upward(.TzHB6b)
 duckduckgo.com##.react-results--main > li:has(a[href*="azazworld.com"])

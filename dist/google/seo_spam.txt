@@ -7,80 +7,80 @@
 ! GitHub issues: https://github.com/quenhus/uBlock-Origin-dev-filter/issues
 ! GitHub pull requests: https://github.com/quenhus/uBlock-Origin-dev-filter/pulls
 ||spiegato.com^$all
-google.*###rso .MjjYud a[href*="spiegato.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="spiegato.com"]:upward(.TzHB6b)
 ||actingcollegeses.com^$all
-google.*###rso .MjjYud a[href*="actingcollegeses.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="actingcollegeses.com"]:upward(.TzHB6b)
 ||patrickkidd3.typepad.com^$all
-google.*###rso .MjjYud a[href*="patrickkidd3.typepad.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="patrickkidd3.typepad.com"]:upward(.TzHB6b)
 ||durrell2012.com^$all
-google.*###rso .MjjYud a[href*="durrell2012.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="durrell2012.com"]:upward(.TzHB6b)
 ||developpaper.com^$all
-google.*###rso .MjjYud a[href*="developpaper.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="developpaper.com"]:upward(.TzHB6b)
 ||topcode.in^$all
-google.*###rso .MjjYud a[href*="topcode.in"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="topcode.in"]:upward(.TzHB6b)
 ||javascripttutorial.net^$all
-google.*###rso .MjjYud a[href*="javascripttutorial.net"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="javascripttutorial.net"]:upward(.TzHB6b)
 ||geekwall.in^$all
-google.*###rso .MjjYud a[href*="geekwall.in"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="geekwall.in"]:upward(.TzHB6b)
 ||mailinglistapi.info^$all
-google.*###rso .MjjYud a[href*="mailinglistapi.info"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="mailinglistapi.info"]:upward(.TzHB6b)
 ||worldgrowthtoday.com^$all
-google.*###rso .MjjYud a[href*="worldgrowthtoday.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="worldgrowthtoday.com"]:upward(.TzHB6b)
 ||emailconverts.info^$all
-google.*###rso .MjjYud a[href*="emailconverts.info"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="emailconverts.info"]:upward(.TzHB6b)
 ||email-pro.info^$all
-google.*###rso .MjjYud a[href*="email-pro.info"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="email-pro.info"]:upward(.TzHB6b)
 ||icode9.com^$all
-google.*###rso .MjjYud a[href*="icode9.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="icode9.com"]:upward(.TzHB6b)
 ||900913.ru^$all
-google.*###rso .MjjYud a[href*="900913.ru"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="900913.ru"]:upward(.TzHB6b)
 ||iditect.com^$all
-google.*###rso .MjjYud a[href*="iditect.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="iditect.com"]:upward(.TzHB6b)
 ||jqueryscript.net^$all
-google.*###rso .MjjYud a[href*="jqueryscript.net"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="jqueryscript.net"]:upward(.TzHB6b)
 ||osqa.net^$all
-google.*###rso .MjjYud a[href*="osqa.net"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="osqa.net"]:upward(.TzHB6b)
 ||codingwithfun.com^$all
-google.*###rso .MjjYud a[href*="codingwithfun.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="codingwithfun.com"]:upward(.TzHB6b)
 ||codesprogram.com^$all
-google.*###rso .MjjYud a[href*="codesprogram.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="codesprogram.com"]:upward(.TzHB6b)
 ||iqcode.com^$all
-google.*###rso .MjjYud a[href*="iqcode.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="iqcode.com"]:upward(.TzHB6b)
 ||hum-berlin.de^$all
-google.*###rso .MjjYud a[href*="hum-berlin.de"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="hum-berlin.de"]:upward(.TzHB6b)
 ||britguidenewyork.net^$all
-google.*###rso .MjjYud a[href*="britguidenewyork.net"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="britguidenewyork.net"]:upward(.TzHB6b)
 ||justshowcode.com^$all
-google.*###rso .MjjYud a[href*="justshowcode.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="justshowcode.com"]:upward(.TzHB6b)
 ||itw01.com^$all
-google.*###rso .MjjYud a[href*="itw01.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="itw01.com"]:upward(.TzHB6b)
 ||codertw.com^$all
-google.*###rso .MjjYud a[href*="codertw.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="codertw.com"]:upward(.TzHB6b)
 ||multi-let.co.uk^$all
-google.*###rso .MjjYud a[href*="multi-let.co.uk"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="multi-let.co.uk"]:upward(.TzHB6b)
 ||answerforyou.net^$all
-google.*###rso .MjjYud a[href*="answerforyou.net"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="answerforyou.net"]:upward(.TzHB6b)
 ||globalizethis.org^$all
-google.*###rso .MjjYud a[href*="globalizethis.org"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="globalizethis.org"]:upward(.TzHB6b)
 ||unbate.com^$all
-google.*###rso .MjjYud a[href*="unbate.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="unbate.com"]:upward(.TzHB6b)
 ||ngontinh24.com^$all
-google.*###rso .MjjYud a[href*="ngontinh24.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="ngontinh24.com"]:upward(.TzHB6b)
 ||nmstep.org^$all
-google.*###rso .MjjYud a[href*="nmstep.org"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="nmstep.org"]:upward(.TzHB6b)
 ||juicycleanses.com^$all
-google.*###rso .MjjYud a[href*="juicycleanses.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="juicycleanses.com"]:upward(.TzHB6b)
 ||code-discuss.com^$all
-google.*###rso .MjjYud a[href*="code-discuss.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="code-discuss.com"]:upward(.TzHB6b)
 ||bong-faq.com^$all
-google.*###rso .MjjYud a[href*="bong-faq.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="bong-faq.com"]:upward(.TzHB6b)
 ||suptitles.de^$all
-google.*###rso .MjjYud a[href*="suptitles.de"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="suptitles.de"]:upward(.TzHB6b)
 ||brianlovin.com/hn$all
-google.*###rso .MjjYud a[href*="brianlovin.com/hn"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="brianlovin.com/hn"]:upward(.TzHB6b)
 ||plageroyale.com^$all
-google.*###rso .MjjYud a[href*="plageroyale.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="plageroyale.com"]:upward(.TzHB6b)
 ||thesassway.com^$all
-google.*###rso .MjjYud a[href*="thesassway.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="thesassway.com"]:upward(.TzHB6b)
 ||azazworld.com^$all
-google.*###rso .MjjYud a[href*="azazworld.com"]:upward(.MjjYud)
+google.*###rso .TzHB6b a[href*="azazworld.com"]:upward(.TzHB6b)
